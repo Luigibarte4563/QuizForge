@@ -1,0 +1,29 @@
+name: quizforge
+description: "QuizForge - Offline AI quiz generator from learning materials."
+publish_to: 'none'
+version: 3.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  nobodywho: ^2.5.0
+  file_picker: ^10.0.0
+  sqflite: ^2.4.2
+  path: ^1.9.1
+  path_provider: ^2.1.5
+  intl: ^0.20.2
+  archive: ^4.0.4
+  xml: ^6.6.0
+  shared_preferences: ^2.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
