@@ -7,9 +7,9 @@ Offline AI-powered learning assistant. Turn any learning material into study not
 - **On-Device AI** — Qwen 3 language models run locally on your phone
 - **Dual Model Choice** — Pick Fast (~500 MB) or Better (~1 GB) based on your device
 - **File Import** — PDF, DOCX, PPTX, XLSX, TXT, RTF, HTML, JSON and more
-- **Paste Text** — Paste notes, articles, or any text directly
-- **Study Notes** — AI-generated summary notes from your material
-- **Flashcards** — Tap-to-reveal flashcards with AI-generated Q&A pairs
+- **Paste Text** — Paste notes, articles, or any text directly.
+- **Study Notes** — AI-generated summary notes from your material.
+- **Flashcards** — Tap-to-reveal flashcards with AI-generated Q&A pairs.
 - **Quizzes** — Multiple Choice, True/False, Fill-in-the-Blank, or Mixed
 - **Challenge Mode** — Score-based challenges unlocked by progress
 - **Folders** — Organize materials into color-coded folders
